@@ -1,0 +1,10 @@
+com\kzhamyr\spring\homework2\aspects\NewLogginAspect.class
+com\kzhamyr\spring\homework2\aspects\MyPointCuts.class
+com\kzhamyr\spring\homework2\TestAround.class
+com\kzhamyr\spring\homework2\TestBefore.class
+com\kzhamyr\spring\homework2\Book.class
+com\kzhamyr\spring\homework2\UniLibrary.class
+com\kzhamyr\spring\homework2\aspects\ExceptionHandlingAspect.class
+com\kzhamyr\spring\homework2\aspects\SecurityAspect.class
+com\kzhamyr\spring\homework2\aspects\LoggingAspect.class
+com\kzhamyr\spring\homework2\MyConfig.class
